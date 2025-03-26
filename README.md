@@ -4,7 +4,7 @@
 
 Team Members:  
 - Soumya Ranjan Mishra (PES2UG22CS571)  
-- Suhas Karamaputti (PES2UG22CS590)  
+- Suhas Karamalaputti (PES2UG22CS590)  
 - Shuklav Reddy (PES2UG22CS557)  
 - Soham Praveen Salunke (PES2UG22CS561)  
 - S K Hitha Sree (PES2UG22CS559)  
