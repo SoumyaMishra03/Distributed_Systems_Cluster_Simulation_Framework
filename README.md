@@ -6,7 +6,7 @@ Team Members:
 - Soumya Ranjan Mishra (PES2UG22CS571)  
 - Suhas Karamalaputti (PES2UG22CS590)  
 - Shuklav Reddy (PES2UG22CS557)  
-- Soham Praveen Salunke (PES2UG22CS561)  
+- Soham Praveen Salunke (PES2UG22CS565)  
 - S K Hitha Sree (PES2UG22CS559)  
 
 ---
@@ -72,7 +72,7 @@ Design and implement a distributed systems simulation framework featuring:
 
 ## Contributors  
 - Soumya Ranjan Mishra (Project Lead, Node Manager Implementation)  
-- Suhas Karamaputti (Pod Scheduler Development)  
+- Suhas Karamalaputti (Pod Scheduler Development)  
 - Shuklav Reddy (API Server Architecture)  
 - Soham Praveen Salunke (Health Monitoring and Recovery Mechanisms)  
 - S K Hitha Sree (CLI/Web Interface Design)  
